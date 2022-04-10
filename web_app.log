@@ -1,0 +1,49 @@
+{"level":"DEBUG","time":"2022-04-10T16:49:19.376+0800","caller":"go_bbs/main.go:36","msg":"logger init success"}
+{"level":"DEBUG","time":"2022-04-10T16:49:19.401+0800","caller":"go_bbs/main.go:44","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-04-10T16:49:19.401+0800","caller":"go_bbs/main.go:45","msg":"redis init success"}
+{"level":"DEBUG","time":"2022-04-10T16:49:19.402+0800","caller":"go_bbs/main.go:60","msg":"server listen","port":"8016"}
+{"level":"DEBUG","time":"2022-04-10T16:49:19.402+0800","caller":"go_bbs/main.go:64","msg":"server listen","port":"8016"}
+{"level":"DEBUG","time":"2022-04-10T16:57:43.876+0800","caller":"go_bbs/main.go:36","msg":"logger init success"}
+{"level":"DEBUG","time":"2022-04-10T16:57:43.879+0800","caller":"go_bbs/main.go:44","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-04-10T16:57:43.879+0800","caller":"go_bbs/main.go:45","msg":"redis init success"}
+{"level":"DEBUG","time":"2022-04-10T16:57:43.879+0800","caller":"go_bbs/main.go:60","msg":"server listen","port":"8016"}
+{"level":"DEBUG","time":"2022-04-10T16:57:43.879+0800","caller":"go_bbs/main.go:64","msg":"server listen","port":"8016"}
+{"level":"DEBUG","time":"2022-04-10T17:13:29.159+0800","caller":"go_bbs/main.go:36","msg":"logger init success"}
+{"level":"DEBUG","time":"2022-04-10T17:13:29.162+0800","caller":"go_bbs/main.go:44","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-04-10T17:13:29.162+0800","caller":"go_bbs/main.go:45","msg":"redis init success"}
+{"level":"DEBUG","time":"2022-04-10T17:13:29.162+0800","caller":"go_bbs/main.go:60","msg":"server listen","port":"8016"}
+{"level":"DEBUG","time":"2022-04-10T17:13:29.162+0800","caller":"go_bbs/main.go:64","msg":"server listen","port":"8016"}
+{"level":"INFO","time":"2022-04-10T17:13:41.291+0800","caller":"logger/logger.go:79","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36","errors":"","cost":0.000966}
+{"level":"DEBUG","time":"2022-04-10T19:19:10.501+0800","caller":"go_bbs/main.go:36","msg":"logger init success"}
+{"level":"DEBUG","time":"2022-04-10T19:19:10.504+0800","caller":"go_bbs/main.go:44","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-04-10T19:19:10.504+0800","caller":"go_bbs/main.go:45","msg":"redis init success"}
+{"level":"DEBUG","time":"2022-04-10T19:19:10.505+0800","caller":"go_bbs/main.go:60","msg":"server listen","port":"8016"}
+{"level":"DEBUG","time":"2022-04-10T19:19:10.505+0800","caller":"go_bbs/main.go:64","msg":"server listen","port":"8016"}
+{"level":"INFO","time":"2022-04-10T19:21:44.446+0800","caller":"logger/logger.go:79","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36","errors":"","cost":0.000503667}
+{"level":"DEBUG","time":"2022-04-10T19:23:30.231+0800","caller":"go_bbs/main.go:36","msg":"logger init success"}
+{"level":"DEBUG","time":"2022-04-10T19:23:30.233+0800","caller":"go_bbs/main.go:44","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-04-10T19:23:30.233+0800","caller":"go_bbs/main.go:45","msg":"redis init success"}
+{"level":"DEBUG","time":"2022-04-10T19:23:30.234+0800","caller":"go_bbs/main.go:60","msg":"server listen","port":"8016"}
+{"level":"DEBUG","time":"2022-04-10T19:23:30.234+0800","caller":"go_bbs/main.go:64","msg":"server listen","port":"8016"}
+{"level":"INFO","time":"2022-04-10T19:23:33.063+0800","caller":"logger/logger.go:79","msg":"/vue","status":200,"method":"GET","path":"/vue","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36","errors":"","cost":0.001401542}
+{"level":"INFO","time":"2022-04-10T19:23:33.088+0800","caller":"logger/logger.go:79","msg":"/css/app.f7323451.css","status":200,"method":"GET","path":"/css/app.f7323451.css","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36","errors":"","cost":0.006239125}
+{"level":"INFO","time":"2022-04-10T19:23:33.088+0800","caller":"logger/logger.go:79","msg":"/js/app.af0f1b09.js","status":200,"method":"GET","path":"/js/app.af0f1b09.js","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36","errors":"","cost":0.004695375}
+{"level":"INFO","time":"2022-04-10T19:23:33.088+0800","caller":"logger/logger.go:79","msg":"/js/chunk-vendors.ed938911.js","status":200,"method":"GET","path":"/js/chunk-vendors.ed938911.js","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36","errors":"","cost":0.004662625}
+{"level":"INFO","time":"2022-04-10T19:23:33.099+0800","caller":"logger/logger.go:79","msg":"/img/logo.82b9c7a5.png","status":200,"method":"GET","path":"/img/logo.82b9c7a5.png","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36","errors":"","cost":0.000189709}
+{"level":"INFO","time":"2022-04-10T19:23:36.355+0800","caller":"logger/logger.go:79","msg":"/vue","status":200,"method":"GET","path":"/vue","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36","errors":"","cost":0.00031425}
+{"level":"INFO","time":"2022-04-10T19:23:38.576+0800","caller":"logger/logger.go:79","msg":"/vue","status":200,"method":"GET","path":"/vue","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36","errors":"","cost":0.0003075}
+{"level":"DEBUG","time":"2022-04-10T21:23:37.936+0800","caller":"go_bbs/main.go:36","msg":"logger init success"}
+{"level":"DEBUG","time":"2022-04-10T21:23:37.938+0800","caller":"go_bbs/main.go:44","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-04-10T21:23:37.938+0800","caller":"go_bbs/main.go:45","msg":"redis init success"}
+{"level":"DEBUG","time":"2022-04-10T21:23:37.938+0800","caller":"go_bbs/main.go:60","msg":"server listen","port":"8016"}
+{"level":"DEBUG","time":"2022-04-10T21:23:37.938+0800","caller":"go_bbs/main.go:64","msg":"server listen","port":"8016"}
+{"level":"DEBUG","time":"2022-04-10T21:25:10.767+0800","caller":"go_bbs/main.go:36","msg":"logger init success"}
+{"level":"DEBUG","time":"2022-04-10T21:25:10.769+0800","caller":"go_bbs/main.go:44","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-04-10T21:25:10.769+0800","caller":"go_bbs/main.go:45","msg":"redis init success"}
+{"level":"DEBUG","time":"2022-04-10T21:25:10.770+0800","caller":"go_bbs/main.go:60","msg":"server listen","port":"8016"}
+{"level":"DEBUG","time":"2022-04-10T21:25:10.770+0800","caller":"go_bbs/main.go:64","msg":"server listen","port":"8016"}
+{"level":"ERROR","time":"2022-04-10T21:25:28.148+0800","caller":"controllers/user.go:30","msg":"RegisterHandler with invalid param","error":"EOF"}
+{"level":"INFO","time":"2022-04-10T21:25:28.150+0800","caller":"logger/logger.go:79","msg":"/register","status":200,"method":"POST","path":"/register","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.0","errors":"","cost":0.002145084}
+{"level":"ERROR","time":"2022-04-10T21:26:31.747+0800","caller":"controllers/user.go:30","msg":"RegisterHandler with invalid param","error":"Key: 'ParamRegister.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-04-10T21:26:31.748+0800","caller":"logger/logger.go:79","msg":"/register","status":200,"method":"POST","path":"/register","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.0","errors":"","cost":0.001869709}
+{"level":"INFO","time":"2022-04-10T21:32:10.536+0800","caller":"logger/logger.go:79","msg":"/register","status":200,"method":"POST","path":"/register","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.0","errors":"","cost":0.006848958}
